@@ -1,4 +1,4 @@
-#!venv/bin/python3.4
+#!venv/bin/python3.5
 from app import app
 
 app.run()
